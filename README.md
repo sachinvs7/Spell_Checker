@@ -4,6 +4,6 @@ Implementing a spell checker tool in C that determines if a given word is spelle
 
 An example would be, if the user types in "Speling", the suggestions would be "Spelling", "Spending", "Spoiling" etc.
 
-The metaphone is a phonetic algorithm, [details.](https://en.wikipedia.org/wiki/Metaphone)
+The Metaphone is a phonetic algorithm, [details.](https://en.wikipedia.org/wiki/Metaphone)
 
 Update 1 : Succesfully implemented the Metaphone algorithm, refer meta.c file.
